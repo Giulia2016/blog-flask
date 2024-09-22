@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "d83392247ad41c1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5854109b4dadc214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6156e2bc3d9379eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Setup and getting started.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13ebefa1987955b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "c11e8f61f9ca2891",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "deec657fa3fbd397",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "587e9a983a44e7f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e5a476d4ea3365a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "912911a043f162f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "81f0206802658a9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80344741e22e9a9e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Setup and getting started.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e971142e11c5d585",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Setup and getting started.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9538cdf38d90a367",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27c9701da24c29ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setup and getting started.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6156e2bc3d9379eb",
+  "lastOpenFiles": [
+    "README.md",
+    "virtualenv/lib/python3.12/site-packages/flask-3.0.3.dist-info/REQUESTED",
+    "virtualenv/lib/python3.12/site-packages/flask-3.0.3.dist-info/INSTALLER",
+    "virtualenv/bin/flask",
+    "virtualenv/lib/python3.12/site-packages/flask/__pycache__/wrappers.cpython-312.pyc",
+    "virtualenv/lib/python3.12/site-packages/flask/__pycache__/views.cpython-312.pyc",
+    "virtualenv/lib/python3.12/site-packages/flask/__pycache__/typing.cpython-312.pyc",
+    "virtualenv/lib/python3.12/site-packages/flask/__pycache__/testing.cpython-312.pyc",
+    "virtualenv/lib/python3.12/site-packages/flask/__pycache__/templating.cpython-312.pyc",
+    "virtualenv/lib/python3.12/site-packages/flask/__pycache__/signals.cpython-312.pyc",
+    "virtualenv/lib/python3.12/site-packages/flask/__pycache__/sessions.cpython-312.pyc",
+    "virtualenv/lib/python3.12/site-packages/flask/sansio/README.md",
+    "virtualenv/lib/python3.12/site-packages/werkzeug/debug/shared/more.png",
+    "virtualenv/lib/python3.12/site-packages/werkzeug/debug/shared/less.png",
+    "virtualenv/lib/python3.12/site-packages/werkzeug/debug/shared/console.png",
+    "virtualenv/lib/python3.12/site-packages/werkzeug/debug/shared/ICON_LICENSE.md",
+    "Setup and getting started.md"
+  ]
+}
